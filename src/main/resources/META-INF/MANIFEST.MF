@@ -1,0 +1,10 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Name: nuxeo-custom-main-tab
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: vdutat
+Bundle-Version: 1.0.0.qualifier
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: Nuxeo Custom Main Tab
+Nuxeo-component: OSGI-INF/custom-main-tab-actions-contrib.xml

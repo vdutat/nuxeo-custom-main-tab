@@ -1,0 +1,12 @@
+<component name="org.nuxeo.ecm.platform.custom-main-tab.actions" >
+
+  <extension target="org.nuxeo.ecm.platform.actions.ActionService"
+    point="actions">
+
+    <action id="audit_et_pilotage" link="view_audit_et_pilotage" label="Audit et Pilotage" order="100" type="main_tab">
+      <category>MAIN_TABS</category>
+    </action>
+
+  </extension>
+
+</component>
